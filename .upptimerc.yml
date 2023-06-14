@@ -7,8 +7,9 @@ sites:
     url: https://cloudhub.social
   - name: Lemmy
     url: https://lemmy.cloudhub.social
-  - name: Ingress
-    url: https://ingress.cloudhub.social
+  # Cloudflare Ingress does not respond to ping
+  # - name: Ingress
+  #   url: https://ingress.cloudhub.social
 
 assignees:
   - Just-Insane
