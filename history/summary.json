@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 386,
-    "timeDay": 386,
-    "timeWeek": 386,
-    "timeMonth": 386,
-    "timeYear": 386,
+    "time": 365,
+    "timeDay": 365,
+    "timeWeek": 365,
+    "timeMonth": 365,
+    "timeYear": 365,
     "dailyMinutesDown": {}
   },
   {
@@ -28,31 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 805,
-    "timeDay": 805,
-    "timeWeek": 805,
-    "timeMonth": 805,
-    "timeYear": 805,
+    "time": 821,
+    "timeDay": 821,
+    "timeWeek": 821,
+    "timeMonth": 821,
+    "timeYear": 821,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Ingress",
-    "url": "https://ingress.cloudhub.social",
-    "icon": "https://icons.duckduckgo.com/ip3/ingress.cloudhub.social.ico",
-    "slug": "ingress",
-    "status": "down",
-    "uptime": "3.94%",
-    "uptimeDay": "3.94%",
-    "uptimeWeek": "3.94%",
-    "uptimeMonth": "3.94%",
-    "uptimeYear": "3.94%",
-    "time": 367,
-    "timeDay": 367,
-    "timeWeek": 367,
-    "timeMonth": 367,
-    "timeYear": 367,
-    "dailyMinutesDown": {
-      "2023-06-14": 0
-    }
   }
 ]
