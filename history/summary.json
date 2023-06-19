@@ -4,35 +4,39 @@
     "url": "https://cloudhub.social",
     "icon": "https://icons.duckduckgo.com/ip3/cloudhub.social.ico",
     "slug": "mastodon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 455,
-    "timeDay": 479,
-    "timeWeek": 455,
-    "timeMonth": 455,
-    "timeYear": 455,
-    "dailyMinutesDown": {}
+    "time": 456,
+    "timeDay": 473,
+    "timeWeek": 456,
+    "timeMonth": 456,
+    "timeYear": 456,
+    "dailyMinutesDown": {
+      "2023-06-19": 0
+    }
   },
   {
     "name": "Lemmy",
     "url": "https://lemmy.cloudhub.social",
     "icon": "https://icons.duckduckgo.com/ip3/lemmy.cloudhub.social.ico",
     "slug": "lemmy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 665,
-    "timeDay": 948,
-    "timeWeek": 665,
-    "timeMonth": 665,
-    "timeYear": 665,
-    "dailyMinutesDown": {}
+    "time": 607,
+    "timeDay": 545,
+    "timeWeek": 607,
+    "timeMonth": 607,
+    "timeYear": 607,
+    "dailyMinutesDown": {
+      "2023-06-19": 0
+    }
   }
 ]
