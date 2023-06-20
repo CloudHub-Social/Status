@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloudhub.social.ico",
     "slug": "mastodon",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 472,
-    "timeDay": 541,
-    "timeWeek": 472,
-    "timeMonth": 472,
-    "timeYear": 472,
-    "dailyMinutesDown": {
-      "2023-06-19": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 483,
+    "timeDay": 592,
+    "timeWeek": 483,
+    "timeMonth": 483,
+    "timeYear": 483,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Lemmy",
@@ -25,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lemmy.cloudhub.social.ico",
     "slug": "lemmy",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 606,
-    "timeDay": 562,
-    "timeWeek": 606,
-    "timeMonth": 606,
-    "timeYear": 606,
-    "dailyMinutesDown": {
-      "2023-06-19": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 617,
+    "timeDay": 488,
+    "timeWeek": 617,
+    "timeMonth": 617,
+    "timeYear": 617,
+    "dailyMinutesDown": {}
   }
 ]
