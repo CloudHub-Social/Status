@@ -28,8 +28,10 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
+    - title: Status GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: CloudHub.Social GitHub
+      href: https://github.com/$OWNER/CloudHub-Cluster
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
