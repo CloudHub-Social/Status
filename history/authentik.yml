@@ -1,7 +1,7 @@
 url: https://auth.cloudhub.social
-status: up
-code: 200
-responseTime: 1080
-lastUpdated: 2023-12-05T23:12:39.542Z
+status: down
+code: 503
+responseTime: 15250
+lastUpdated: 2023-12-06T05:47:12.040Z
 startTime: 2023-10-19T19:09:46.896Z
 generator: Upptime <https://github.com/upptime/upptime>
