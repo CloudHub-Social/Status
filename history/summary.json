@@ -34,9 +34,9 @@
     "slug": "lemmy",
     "status": "up",
     "uptime": "77.61%",
-    "uptimeDay": "94.99%",
-    "uptimeWeek": "91.40%",
-    "uptimeMonth": "66.71%",
+    "uptimeDay": "95.77%",
+    "uptimeWeek": "92.15%",
+    "uptimeMonth": "66.73%",
     "uptimeYear": "77.61%",
     "time": 525,
     "timeDay": 328,
@@ -44,7 +44,7 @@
     "timeMonth": 466,
     "timeYear": 525,
     "dailyMinutesDown": {
-      "2024-01-12": 72,
+      "2024-01-12": 61,
       "2024-01-11": 16,
       "2024-01-10": 226,
       "2024-01-06": 515,
@@ -135,7 +135,7 @@
       "2023-07-19": 23,
       "2023-07-12": 423,
       "2023-07-11": 169,
-      "2023-07-10": 95
+      "2023-07-10": 127
     }
   },
   {
@@ -144,11 +144,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloudhub.social.ico",
     "slug": "mastodon",
     "status": "up",
-    "uptime": "89.31%",
+    "uptime": "89.32%",
     "uptimeDay": "98.50%",
     "uptimeWeek": "97.00%",
     "uptimeMonth": "98.82%",
-    "uptimeYear": "89.31%",
+    "uptimeYear": "89.32%",
     "time": 957,
     "timeDay": 235,
     "timeWeek": 305,
