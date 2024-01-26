@@ -37,16 +37,16 @@
     "url": "https://lemmy.cloudhub.social",
     "icon": "https://icons.duckduckgo.com/ip3/lemmy.cloudhub.social.ico",
     "slug": "lemmy",
-    "status": "up",
-    "uptime": "87.54%",
-    "uptimeDay": "95.44%",
-    "uptimeWeek": "96.09%",
+    "status": "down",
+    "uptime": "87.92%",
+    "uptimeDay": "95.43%",
+    "uptimeWeek": "96.08%",
     "uptimeMonth": "65.62%",
-    "uptimeYear": "87.54%",
+    "uptimeYear": "87.92%",
     "time": 531,
-    "timeDay": 514,
-    "timeWeek": 533,
-    "timeMonth": 533,
+    "timeDay": 527,
+    "timeWeek": 527,
+    "timeMonth": 531,
     "timeYear": 531,
     "dailyMinutesDown": {
       "2024-01-26": 66,
@@ -111,9 +111,7 @@
       "2023-09-18": 95,
       "2023-09-12": 693,
       "2023-09-11": 1416,
-      "2023-09-10": 1321,
-      "2023-09-09": 357,
-      "2023-09-08": 854
+      "2023-09-10": 1321
     }
   },
   {
