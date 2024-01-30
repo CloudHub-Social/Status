@@ -4,9 +4,9 @@
     "url": "https://auth.cloudhub.social",
     "icon": "https://icons.duckduckgo.com/ip3/auth.cloudhub.social.ico",
     "slug": "authentik",
-    "status": "up",
+    "status": "down",
     "uptime": "98.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "97.26%",
     "uptimeYear": "98.77%",
@@ -16,6 +16,7 @@
     "timeMonth": 1566,
     "timeYear": 1340,
     "dailyMinutesDown": {
+      "2024-01-30": 0,
       "2024-01-29": 19,
       "2024-01-19": 125,
       "2024-01-18": 32,
@@ -38,15 +39,15 @@
     "url": "https://lemmy.cloudhub.social",
     "icon": "https://icons.duckduckgo.com/ip3/lemmy.cloudhub.social.ico",
     "slug": "lemmy",
-    "status": "up",
-    "uptime": "87.52%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "54.91%",
-    "uptimeMonth": "65.64%",
-    "uptimeYear": "87.52%",
+    "status": "down",
+    "uptime": "87.77%",
+    "uptimeDay": "5.91%",
+    "uptimeWeek": "55.11%",
+    "uptimeMonth": "65.84%",
+    "uptimeYear": "87.77%",
     "time": 530,
-    "timeDay": 1002,
-    "timeWeek": 541,
+    "timeDay": 869,
+    "timeWeek": 537,
     "timeMonth": 542,
     "timeYear": 530,
     "dailyMinutesDown": {
@@ -114,8 +115,7 @@
       "2023-09-24": 23,
       "2023-09-21": 47,
       "2023-09-18": 95,
-      "2023-09-12": 693,
-      "2023-09-11": 450
+      "2023-09-12": 312
     }
   },
   {
