@@ -1,7 +1,7 @@
 url: https://lemmy.cloudhub.social
-status: down
-code: 503
-responseTime: 241
-lastUpdated: 2024-03-02T11:05:01.687Z
+status: up
+code: 200
+responseTime: 1043
+lastUpdated: 2024-03-02T11:16:47.357Z
 startTime: 2023-06-14T12:41:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
