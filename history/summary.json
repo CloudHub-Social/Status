@@ -44,15 +44,15 @@
     "url": "https://lemmy.cloudhub.social",
     "icon": "https://icons.duckduckgo.com/ip3/lemmy.cloudhub.social.ico",
     "slug": "lemmy",
-    "status": "up",
-    "uptime": "94.35%",
+    "status": "down",
+    "uptime": "94.36%",
     "uptimeDay": "90.57%",
     "uptimeWeek": "95.60%",
     "uptimeMonth": "61.80%",
-    "uptimeYear": "94.35%",
+    "uptimeYear": "94.36%",
     "time": 511,
-    "timeDay": 481,
-    "timeWeek": 598,
+    "timeDay": 461,
+    "timeWeek": 588,
     "timeMonth": 484,
     "timeYear": 511,
     "dailyMinutesDown": {
@@ -103,7 +103,7 @@
       "2024-02-05": 90,
       "2024-02-04": 87,
       "2024-02-03": 52,
-      "2024-02-02": 69
+      "2024-02-02": 54
     }
   },
   {
@@ -112,11 +112,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloudhub.social.ico",
     "slug": "mastodon",
     "status": "up",
-    "uptime": "91.86%",
+    "uptime": "91.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.59%",
-    "uptimeYear": "91.86%",
+    "uptimeYear": "91.87%",
     "time": 877,
     "timeDay": 246,
     "timeWeek": 372,
