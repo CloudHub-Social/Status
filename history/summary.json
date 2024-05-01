@@ -51,7 +51,7 @@
     "slug": "lemmy",
     "status": "down",
     "uptime": "94.95%",
-    "uptimeDay": "54.46%",
+    "uptimeDay": "54.43%",
     "uptimeWeek": "71.80%",
     "uptimeMonth": "86.05%",
     "uptimeYear": "94.95%",
@@ -61,7 +61,7 @@
     "timeMonth": 692,
     "timeYear": 530,
     "dailyMinutesDown": {
-      "2024-05-01": 0,
+      "2024-05-01": 1,
       "2024-04-30": 655,
       "2024-04-29": 305,
       "2024-04-28": 1105,
