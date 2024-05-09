@@ -9,6 +9,8 @@ sites:
     url: https://lemmy.cloudhub.social
   - name: Mastodon
     url: https://cloudhub.social
+  - name: Blog
+    url: https://blog.cloudhub.social
   # Cloudflare Ingress does not respond to ping
   # - name: Ingress
   #   url: https://ingress.cloudhub.social
@@ -32,6 +34,5 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: CloudHub.Social GitHub
       href: https://github.com/$OWNER/CloudHub-Cluster
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
