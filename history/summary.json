@@ -57,7 +57,7 @@
     "uptime": "94.96%",
     "uptimeDay": "94.38%",
     "uptimeWeek": "95.54%",
-    "uptimeMonth": "87.50%",
+    "uptimeMonth": "87.76%",
     "uptimeYear": "94.96%",
     "time": 527,
     "timeDay": 454,
@@ -218,17 +218,19 @@
     "url": "https://blog.cloudhub.social",
     "icon": "https://icons.duckduckgo.com/ip3/blog.cloudhub.social.ico",
     "slug": "blog",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 440,
-    "timeDay": 440,
-    "timeWeek": 440,
-    "timeMonth": 440,
-    "timeYear": 440,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 367,
+    "timeDay": 367,
+    "timeWeek": 367,
+    "timeMonth": 367,
+    "timeYear": 367,
+    "dailyMinutesDown": {
+      "2024-05-10": 0
+    }
   }
 ]
