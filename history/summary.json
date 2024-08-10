@@ -11,9 +11,9 @@
     "uptimeMonth": "99.39%",
     "uptimeYear": "98.77%",
     "time": 1437,
-    "timeDay": 1489,
-    "timeWeek": 2522,
-    "timeMonth": 1733,
+    "timeDay": 1504,
+    "timeWeek": 2530,
+    "timeMonth": 1738,
     "timeYear": 1437,
     "dailyMinutesDown": {
       "2024-08-09": 20,
@@ -81,17 +81,17 @@
     "slug": "lemmy",
     "status": "up",
     "uptime": "95.98%",
-    "uptimeDay": "97.97%",
-    "uptimeWeek": "99.05%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "95.35%",
     "time": 554,
-    "timeDay": 664,
-    "timeWeek": 558,
-    "timeMonth": 636,
-    "timeYear": 550,
+    "timeDay": 739,
+    "timeWeek": 588,
+    "timeMonth": 641,
+    "timeYear": 551,
     "dailyMinutesDown": {
-      "2024-08-09": 30,
+      "2024-08-09": 20,
       "2024-08-05": 22,
       "2024-08-04": 30,
       "2024-08-03": 15,
@@ -152,7 +152,8 @@
       "2024-03-13": 1440,
       "2024-03-12": 651,
       "2024-03-11": 16,
-      "2024-03-10": 38
+      "2024-03-10": 38,
+      "2024-03-08": 34
     }
   },
   {
@@ -167,9 +168,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "93.47%",
     "time": 755,
-    "timeDay": 270,
-    "timeWeek": 619,
-    "timeMonth": 421,
+    "timeDay": 297,
+    "timeWeek": 613,
+    "timeMonth": 419,
     "timeYear": 798,
     "dailyMinutesDown": {
       "2024-08-05": 22,
@@ -243,8 +244,7 @@
       "2023-08-26": 130,
       "2023-08-25": 685,
       "2023-08-24": 40,
-      "2023-08-20": 152,
-      "2023-08-11": 19
+      "2023-08-20": 152
     }
   },
   {
@@ -258,11 +258,11 @@
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "98.09%",
-    "time": 658,
-    "timeDay": 437,
-    "timeWeek": 3282,
-    "timeMonth": 1115,
-    "timeYear": 658,
+    "time": 657,
+    "timeDay": 475,
+    "timeWeek": 3263,
+    "timeMonth": 1069,
+    "timeYear": 657,
     "dailyMinutesDown": {
       "2024-08-05": 22,
       "2024-07-16": 15,
