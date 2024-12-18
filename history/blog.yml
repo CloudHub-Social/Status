@@ -1,7 +1,7 @@
 url: https://blog.cloudhub.social
-status: up
-code: 200
-responseTime: 994
-lastUpdated: 2024-12-18T17:06:54.000Z
+status: down
+code: 500
+responseTime: 550
+lastUpdated: 2024-12-18T19:11:55.825Z
 startTime: 2024-05-09T17:31:19.944Z
 generator: Upptime <https://github.com/upptime/upptime>
